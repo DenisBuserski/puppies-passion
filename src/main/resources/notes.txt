@@ -1,0 +1,2 @@
+Paid - WebStorm
+Free - Visual Studio Code / Brackets / NetBeans 
